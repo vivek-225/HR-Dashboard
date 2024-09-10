@@ -1,6 +1,6 @@
 # HR-Dashboard
 
-The insight of the HR Dashboard:
+The insight from the HR Dashboard:
 
 •	Total Employees: 1,470
 
