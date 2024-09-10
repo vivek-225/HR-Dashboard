@@ -5,12 +5,14 @@ The insight of the HR Dashboard:
 •	Total Employees: 1,470
 
 •	Gender Distribution:
+
     o	Male: 882 (60%)
     o	Female: 588 (40%)
     
 •	Employee Satisfaction: 72 employees (4.9%) are not due for promotion
 
 •	Job Roles Representative Count:
+
     o	Sales Executive: 326
     o	Research Scientist: 292
     o	Laboratory Technician: 258
@@ -20,10 +22,12 @@ The insight of the HR Dashboard:
     o	Sales Representative: 83
     
 •	Total Employees Due for Promotion:
+
     o	Yes: 72
     o	No/Not Due: 1,398
     
 •	Attrition Count:
+
     o	Yes (Employee left): 237
     o	No (Employee stayed): 1,233
 
