@@ -1,5 +1,5 @@
 # HR-Dashboard
-The objective HR dashboard:
+The objective of HR dashboard:
 
 •    The objective of this HR dashboard is to provide a comprehensive overview of key human resources metrics and statistics to facilitate data-driven decision-making.
 
